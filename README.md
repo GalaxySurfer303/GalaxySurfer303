@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @GalaxySurfer303  
+# 👋 Hi, I’m aaa I’m just a regular guy trying to figure out automated testing and keeping my code here to help me find a job – and maybe help you too, if you want to check it out and see things from a different perspective… peace! 
 
 ## About Me  
 - 💻 **Test Automation Enthusiast:**  
